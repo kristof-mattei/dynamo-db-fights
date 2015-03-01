@@ -1,0 +1,14 @@
+{
+  "name": "dynamo-db-fights",
+  "version": "0.0.0",
+  "description": "dynamo-db-fights",
+  "main": "app.js",
+  "author": {
+    "name": "Kristof",
+    "email": ""
+  },
+  "dependencies": {
+    "joi": "^5.1.0",
+    "vogels": "^2.0.0-rc8"
+  }
+}
